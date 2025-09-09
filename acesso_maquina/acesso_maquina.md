@@ -71,6 +71,12 @@ Também é possível utilizar o Vscode na máquina remota como se você estivess
 
 ![Selecionar Arquivo](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/selecionar_arquivo.png)
 
-3. Por fim, edite o arquivo de configuração da seguinte forma:
+3. Edite o arquivo de configuração da seguinte forma:
 
-![Arquivo de Config](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/acesso_mica.png)
+![Arquivo de Config](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/arquivo_config.png)
+
+OBS: A sintaxe do arquivo de configuração pode mudar dependendo do seu sistema operacional, o arquivo acima funciona no windows.
+
+4. Acesse a máquina da seguinte forma:
+
+![Acesso a maquina](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/acesso_vscode.png)
