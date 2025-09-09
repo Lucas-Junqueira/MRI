@@ -21,14 +21,14 @@ Se for sua primeira vez se conectando a uma máquina/servidor específico, o SSH
 Antes de realizarmos o acesso, saiba que existem três pré-requisitos para acessar a máquina:
 
 1. Você deve pedir ao seu professor orientador (possivelmente o Meira) para enviar um pedido ao CRC para vincular seu usuário DCC ao grupo Speed.
-2. Você deve pedir ao administrador do Speed para criar uma conta de usuário para você dentro do grupo speed. Esse pedido pode ser feito no seguinte [Grupo Do Telegram]().
+2. Você deve pedir ao administrador do Speed para criar uma conta de usuário para você dentro do grupo speed. Esse pedido pode ser feito no seguinte [Grupo Do Telegram](https://t.me/+NTlKuGvnDtw2MjQx).
 3. Você deve pedir ao administrador da gorgona1 para liberar o seu acesso na máquina.
 
 ## O acesso com SSH
 
 Agora que você já sabe como utilizar o SSH e já tem os requisitos de acesso, vamos ver como se acessa a máquina que contém os dados. Para isso, precisaremos realizar dois SSHs consecutivos.
 
-O primeiro SSH deve ser feito para que você gere uma conexão com a máquina geral do CRC (antiga mica), o endereço dela é *login.dcc.ufmg.br** e você deve acessá-la com seu usuário CRC, ou seja, o comando deve ser o seguinte:
+O primeiro SSH deve ser feito para que você gere uma conexão com a máquina geral do CRC (antiga mica), o endereço dela é **login.dcc.ufmg.br** e você deve acessá-la com seu usuário CRC, ou seja, o comando deve ser o seguinte:
 
 ```
 ssh usuario_crc@login.dcc.ufmg.br
@@ -38,4 +38,37 @@ Você também deve utilizar a sua senha do CRC (a mesma que você utiliza para a
 
 IMAGEM AQUI!!!
 
-# O acesso a Gorgona1 com Vscode 
+Após acessar a máquina geral do CRC, acessaremos, a partir dela, a gorgona1 utilizando um outro comando SSH. Para acessar a gorgona, você também utilizará o seu usuário e senha do CRC, juntamente com o endereço **gorgona1.speed.dcc.ufmg.br**, ou seja, o comando será o seguinte:
+
+```
+ssh usuario_crc@gorgona1.speed.dcc.ufmg.br
+```
+
+## Localização dos Dados
+
+Parabéns, agora você conseguiu acessar a maquina! Agora vamos entender onde estão localizados os dados. A gorgona1 contém dois HDs e um SSD, no SSD está a pasta home dos usuários, já nos HDs (localizados na pasta **/mnt**), estão localizados os dados.
+
+O Dataset está dividivo, por questões de memória, nos dois HDs, o HD2 é reservado apenas para os dados e contém a maior parte deles.
+
+Os datasets estão localizados nos seguintes paths:
+
+```
+/mnt/HD_1/dados/pardini
+/mnt/HD_2/dados/pardini
+```
+
+# O acesso a Gorgona1 com Vscode
+
+Também é possível utilizar o Vscode na máquina remota como se você estivesse na sua máquina local. Para isso, siga os passos abaixo:
+
+1. No Vscode, Baixe a extensão Remote-SSH:
+
+IMAGEM AQUI!!!
+
+2. Acesse o arquivo de configuração ('config') do ssh. Ele pode ser acessado da seguinte forma:
+
+IMAGENS AQUI!!!
+
+3. Por fim, edite o arquivo de configuração da seguinte forma:
+
+IMAGEM AQUI!!!
