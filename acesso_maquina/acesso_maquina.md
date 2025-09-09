@@ -36,7 +36,7 @@ ssh usuario_crc@login.dcc.ufmg.br
 
 Você também deve utilizar a sua senha do CRC (a mesma que você utiliza para acessar seu email DCC) para fazer o login na maquina. Depois, de acessar a máquina, você vera algo como isso em seu terminal:
 
-IMAGEM AQUI!!!
+![Acesso a Mica](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/acesso_mica.png)
 
 Após acessar a máquina geral do CRC, acessaremos, a partir dela, a gorgona1 utilizando um outro comando SSH. Para acessar a gorgona, você também utilizará o seu usuário e senha do CRC, juntamente com o endereço **gorgona1.speed.dcc.ufmg.br**, ou seja, o comando será o seguinte:
 
@@ -63,12 +63,14 @@ Também é possível utilizar o Vscode na máquina remota como se você estivess
 
 1. No Vscode, Baixe a extensão Remote-SSH:
 
-IMAGEM AQUI!!!
+![Remote SSH](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/remote_ssh.png)
 
 2. Acesse o arquivo de configuração ('config') do ssh. Ele pode ser acessado da seguinte forma:
 
-IMAGENS AQUI!!!
+![Explorador Remoto](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/explorador_remoto.png)
+
+![Selecionar Arquivo](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/selecionar_arquivo.png)
 
 3. Por fim, edite o arquivo de configuração da seguinte forma:
 
-IMAGEM AQUI!!!
+![Arquivo de Config](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/imagens/acesso_mica.png)
