@@ -8,7 +8,9 @@ O SSH (Secure Shell) é um protocolo de rede que permite acessar e administrar c
 
 Para realizar uma conexão SSH, será necessário utilizar um nome de usuário e o endereço da máquina/servidor remoto que você deseja acessar. O comando deve ser dado por um terminal e a sintaxe do comando SSH é a seguinte:
 
-`ssh usuario@servidor.com
+```
+ssh usuario@servidor.com
+```
 
 Se for sua primeira vez se conectando a uma máquina/servidor específico, o SSH pergunta se você confia na chave do servidor (você responde com 'yes' para continuar com acesso). Depois, você entra com sua senha.
 
@@ -28,7 +30,9 @@ Agora que você já sabe como utilizar o SSH e já tem os requisitos de acesso, 
 
 O primeiro SSH deve ser feito para que você gere uma conexão com a máquina geral do CRC (antiga mica), o endereço dela é *login.dcc.ufmg.br** e você deve acessá-la com seu usuário CRC, ou seja, o comando deve ser o seguinte:
 
-´ ssh usuario_crc@login.dcc.ufmg.br
+```
+ssh usuario_crc@login.dcc.ufmg.br
+```
 
 Você também deve utilizar a sua senha do CRC (a mesma que você utiliza para acessar seu email DCC) para fazer o login na maquina. Depois, de acessar a máquina, você vera algo como isso em seu terminal:
 
