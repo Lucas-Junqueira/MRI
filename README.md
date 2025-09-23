@@ -3,6 +3,6 @@ Repositório destinado a documentação dos dados (10.000 exames de MRI fornecid
 
 Utilize os links abaixo para se locomover pelo repositório:
 - [Como acessar a máquina que contém os dados](https://github.com/Lucas-Junqueira/MRI/blob/main/acesso_maquina/acesso_maquina.md)
-- [Caracterização dos dados]()
+- [Caracterização dos dados](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/caracterizacao.md)
 - [Tratamento dos Dados]()
 - [Pré-Processamento]()
