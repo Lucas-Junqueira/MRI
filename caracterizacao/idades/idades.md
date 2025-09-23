@@ -4,4 +4,4 @@ A distribuição das idades no dataset pode ser vista no histograma abaixo:
 
 
 ## Pacientes com menos de 25 anos
-Informação pedida pela Dra.Debora, esses pacientes são 1209 e os paths para seus respectivos exames pode ser encontrado no arquivo: [Pacientes com Menos de 25 anos.]()
+Informação pedida pela Dra.Debora, esses pacientes são 1209 e os paths para seus respectivos exames pode ser encontrado no arquivo: [Pacientes com Menos de 25 anos.](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/idades/exames_pacientes_menores_25_anos.txt)
