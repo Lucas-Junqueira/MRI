@@ -2,4 +2,4 @@ A tag Series Description de um DICOM, identificada por (0008,103E), é um campo 
 
 Os valores da Series Description correspondem ao tipo de sequência ou ao protocolo utilizado, como por exemplo "T1 Axial", "T2 FLAIR" ou "DWI". Cada uma dessas modalidades de ressonância magnética possui um papel específico na análise clínica: T1 é ideal para visualizar a anatomia, pois mostra a substância branca mais clara que a cinzenta e líquidos escuros; T2 realça líquidos, tornando-os brilhantes, o que facilita a detecção de edemas, inflamações e lesões; já a DWI avalia a difusão da água nos tecidos, sendo fundamental para identificar precocemente áreas de isquemia em casos de AVC. Além das modalidades citadas, existem muitas outras, que podem ser indentificadas pelo campo Series Description.
 
-O seguinte arquivo contém as series description únicas encontradas no dataset e seu número de ocorrências: []()
+O seguinte arquivo contém as series description únicas encontradas no dataset e seu número de ocorrências: [Series Description](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/series_description/unique_sequences%20-%20unique_sequences.csv)
