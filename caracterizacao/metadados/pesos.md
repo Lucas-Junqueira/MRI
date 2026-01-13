@@ -5,7 +5,7 @@ A distribuição dos pesos no dataset pode ser vista no histograma abaixo:
 ![Imagem Aqui](/imagens/hist_pesos.png)
 
 ## Relação *idade* x *peso*
-O gráfico de frequência 2D da relação entre esses dois metadados pode ser encontrado no arquivo: [idade_peso.md](/caracterizacao/metadados/peso_idade.md)
+O gráfico de frequência 2D da relação entre esses dois metadados pode ser encontrado no arquivo: [idade_peso.md](/caracterizacao/metadados/idade_peso.md)
 
 ---
 

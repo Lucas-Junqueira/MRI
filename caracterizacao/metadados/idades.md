@@ -8,7 +8,7 @@ A distribuição das idades no dataset pode ser vista no histograma abaixo:
 Informação pedida pela Dra.Debora, esses pacientes são 1290 e os paths para seus respectivos exames pode ser encontrado no arquivo: [Pacientes com Menos de 25 anos.](/caracterizacao/metadados/exames_pacientes_menores_25_anos.txt)
 
 ## Relação *idade* x *peso*
-O gráfico de frequência 2D da relação entre esses dois metadados pode ser encontrado no arquivo: [idade_peso.md](/caracterizacao/metadados/peso_idade.md)
+O gráfico de frequência 2D da relação entre esses dois metadados pode ser encontrado no arquivo: [idade_peso.md](/caracterizacao/metadados/idade_peso.md)
 
 ---
 

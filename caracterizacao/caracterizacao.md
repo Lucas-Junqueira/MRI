@@ -34,6 +34,7 @@ Neste tópico, é deixado links para caracterizações de metadados contidos no 
 
 - [Series Description](/caracterizacao/metadados/series_description.md)
 - [Idades](/caracterizacao/metadados/idades.md)
+- [Pesos](/caracterizacao/metadados/pesos.md)
 
 ---
  
