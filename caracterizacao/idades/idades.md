@@ -2,7 +2,10 @@ As idades dos pacientes podem ser encontradas no metadado X dos dicoms. Contudo,
 
 A distribuição das idades no dataset pode ser vista no histograma abaixo:
 
-![Imagem Aqui](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/idades/imagens/Idades_Histograma.jpg)
+![Imagem Aqui](/imagens/hist_idades.png)
 
 ## Pacientes com menos de 25 anos
-Informação pedida pela Dra.Debora, esses pacientes são 1290 e os paths para seus respectivos exames pode ser encontrado no arquivo: [Pacientes com Menos de 25 anos.](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/idades/exames_pacientes_menores_25_anos.txt)
+Informação pedida pela Dra.Debora, esses pacientes são 1290 e os paths para seus respectivos exames pode ser encontrado no arquivo: [Pacientes com Menos de 25 anos.](caracterizacao/idades/exames_pacientes_menores_25_anos.txt)
+
+> [Retornar para a página anterior](/caracterizacao/caracterizacao.md)  
+> [Retornar para a página inicial](/README.md)

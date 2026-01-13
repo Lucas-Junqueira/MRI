@@ -32,5 +32,9 @@ No dataset, temos em geral:
 
 Neste tópico, é deixado links para caracterizações de metadados contidos no dataset:
 
-- [Series Description](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/series_description/series_description.md)
-- [Idades](https://github.com/Lucas-Junqueira/MRI/blob/main/caracterizacao/idades/idades.md)
+- [Series Description](/caracterizacao/series_description/series_description.md)
+- [Idades](/caracterizacao/idades/idades.md)
+
+---
+ 
+> [Retornar para a página inicial](/README.md)
