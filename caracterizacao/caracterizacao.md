@@ -32,8 +32,8 @@ No dataset, temos em geral:
 
 Neste tópico, é deixado links para caracterizações de metadados contidos no dataset:
 
-- [Series Description](/caracterizacao/series_description/series_description.md)
-- [Idades](/caracterizacao/idades/idades.md)
+- [Series Description](/caracterizacao/metadados/series_description.md)
+- [Idades](/caracterizacao/metadados/idades.md)
 
 ---
  

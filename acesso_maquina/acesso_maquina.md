@@ -80,3 +80,5 @@ OBS: A sintaxe do arquivo de configuração pode mudar dependendo do seu sistema
 1. Acesse a máquina da seguinte forma:
 
 ![Acesso a maquina](/imagens/acesso_vscode.png)
+
+> [Retornar para a página inicial](/README.md)
