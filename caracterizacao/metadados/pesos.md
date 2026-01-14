@@ -1,4 +1,4 @@
-Os pesos dos pacientes podem ser encontradas no metadado (0010, 1030) dos dicoms. Contudo, como os dados foram anonimizados, os pesos dos pacientes estão constando somente os valores inteiros.
+Os pesos dos pacientes (`Patient's Weight`) podem ser encontradas no metadado (0010, 1030) dos dicoms. Contudo, como os dados foram anonimizados, os pesos dos pacientes estão constando somente os valores inteiros.
 
 A distribuição dos pesos no dataset pode ser vista nos histogramas abaixo:
 

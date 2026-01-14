@@ -1,4 +1,4 @@
-A tag Series Description de um DICOM, identificada por (0008,103E), é um campo textual usado para descrever a série de imagens dentro de um exame. Cada exame pode conter várias séries, e esse campo ajuda a diferenciar uma da outra.
+A tag `Series Description` de um DICOM, identificada por (0008,103E), é um campo textual usado para descrever a série de imagens dentro de um exame. Cada exame pode conter várias séries, e esse campo ajuda a diferenciar uma da outra.
 
 ---
 
