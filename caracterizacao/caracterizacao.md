@@ -36,6 +36,7 @@ Neste tópico, é deixado links para caracterizações de metadados contidos no 
 - [Idades](/caracterizacao/metadados/idades.md)
 - [Pesos](/caracterizacao/metadados/pesos.md)
 - [Gênero](/caracterizacao/metadados/genero.md)
+- [Altura](/caracterizacao/metadados/altura.md)
 
 ---
  
