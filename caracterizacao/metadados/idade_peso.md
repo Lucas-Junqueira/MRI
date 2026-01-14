@@ -7,6 +7,5 @@ Dessa imagem pode-se concluir que a maior parte dos pacientes, ou seja, o conjun
 Também nota-se possíveis erros encontrados no banco de dados analisado, por exemplo o bebê de 60 Kg ou os idosos de <20 Kg. Pela cor (observar legenda), conclui-se que são erros singulares, provavelmente causados por erro de digitação.
 
 > [Retornar à página de idades](/caracterizacao/metadados/idades.md)  
-> [Retornar à página de pesos](/caracterizacao/metadados/pesos.md)  
-> [Retornar para a página anterior](/caracterizacao/caracterizacao.md)  
+> [Retornar à página de pesos](/caracterizacao/metadados/pesos.md)   
 > [Retornar para a página inicial](/README.md)
