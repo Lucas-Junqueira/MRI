@@ -33,6 +33,7 @@ No dataset, temos em geral:
 Neste tópico, é deixado links para caracterizações de metadados contidos no dataset:
 
 - [Series Description](/caracterizacao/metadados/series_description.md)
+- [Perfil do Dataset](/caracterizacao/metadados/exames.md)
 - [Idades](/caracterizacao/metadados/idades.md)
 - [Pesos](/caracterizacao/metadados/pesos.md)
 - [Gênero](/caracterizacao/metadados/genero.md)
